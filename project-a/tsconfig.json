@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": ".raw-tsc-out-dir",
+        "target": "ESNext",
+        "module": "ESNext",
+        "isolatedModules": true,
+        "strict": true,
+    },
+    "include": [
+        "**/*.ts"
+    ],
+    "exclude": [
+        ".*"
+    ]
+}

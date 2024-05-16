@@ -1,0 +1,10 @@
+{
+    "name": "not-a-number",
+    "private": true,
+    "version": "1.0.0",
+    "type": "commonjs",
+    "scripts": {},
+    "devDependencies": {
+        "typescript": "^5.5.0-dev.20240514"
+    }
+}
